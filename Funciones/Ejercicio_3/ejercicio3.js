@@ -8,7 +8,7 @@ let total;
 
 //leer variables.
 
-let sueldo = Number(prompt("Ingrese el valor de su sueldo"));
+sueldo = Number(prompt("Ingrese el valor de su sueldo"));
 
 //invocar funciones.
 
