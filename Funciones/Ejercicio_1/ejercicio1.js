@@ -1,1 +1,33 @@
-Archivo dos para funciones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Archivo dos para funciones
